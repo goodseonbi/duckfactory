@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            Duck Factory
 description:      Describe your website here.
 # put your disqus here
 disqus_shortname: 
@@ -8,7 +8,7 @@ logo:             images/logo.png # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: /duckfactory
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -27,40 +27,40 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#  - title: 'Favorites'
+#    url: '#'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           착한선비
+  site:           https://goodseonbi.github.io//duckfactory
+  avatar:         images/avatar.png
+  bio:            "사람은 주사위와 같아서 스스로를 인생속에 던진다."
+  email:          goodseonbi@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  twitter: goodseonbi # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: goodseonbi
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter: 
+twitter: goodseonbi
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/goodseonbi"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: "null"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://www.youtube.com/channel/UCHISzhCbCA38PAn0XNxKtvA"
 # Background image to be tiled on all pages
-background:
+background: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -69,7 +69,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 locale:      en_US
 future:      true
 highlighter: rouge
