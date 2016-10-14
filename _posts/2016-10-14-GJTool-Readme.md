@@ -8,7 +8,7 @@ categories: [sbj]
 image:
   background: /background/weather.png
 image:
- feature: /background/feature/GJtoolback.png
+  feature: /feature/GJtoolback.png
 ---
 
 
@@ -59,9 +59,9 @@ image:
 	<figcaption>`사진수정`을 클릭하여 사진을 수정합니다</figcaption>
 </figure>
 
-<figure class="third">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1" alt=""></a>
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2" alt=""></a>
+<figure class="two">
+	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png" alt=""></a>
+	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2.png" alt=""></a>
 	<figcaption>`국기선택`을 클릭하여 국기를 고른 후 클릭합니다</figcaption>
 </figure>
 
