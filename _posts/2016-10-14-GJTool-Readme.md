@@ -7,7 +7,8 @@ tags: [seonbijam]
 categories: [sbj]
 image:
   background: /background/weather.png
-  feature: /background/feature/GJtoolback.png
+image:
+ feature: /background/feature/GJtoolback.png
 ---
 
 
@@ -26,7 +27,7 @@ image:
 
 
 >버전 0.1에서의 기준으로 적혀진 설명서이며 차후 그 내용이 달라질수 있습니다. 
->>버전 0.1 기준으로 시즌 표시 번호가 검은색으로 나옵니다. 참고 부탁드립니다.
+>버전 0.1 기준으로 시즌 표시 번호가 검은색으로 나옵니다. 참고 부탁드립니다.
 
 #### 사용법
 
@@ -58,13 +59,11 @@ image:
 	<figcaption>`사진수정`을 클릭하여 사진을 수정합니다</figcaption>
 </figure>
 
-{% highlight html %}
 <figure class="third">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1" alt=""></a>
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2" alt=""></a>
 	<figcaption>`국기선택`을 클릭하여 국기를 고른 후 클릭합니다</figcaption>
 </figure>
-{% endhighlight %}
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/medal.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/medal.png" alt=""></a>
