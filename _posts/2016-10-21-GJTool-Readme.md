@@ -2,7 +2,7 @@
 layout: post
 title: GJTool Readme
 description: lol
-modified: 2016-10-14
+modified: 2016-10-21
 tags: [seonbijam]
 categories: [sbj]
 image:
