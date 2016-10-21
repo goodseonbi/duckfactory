@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GJTool Readme
+title: GJTool Readme v0.1
 description: lol
 modified: 2016-10-14
 tags: [seonbijam]
@@ -16,22 +16,18 @@ image:
 
 ### 정보
 
-| 버전 | 배포 날짜 | 추가점 | 다운로드 | 설명 |
+| 버전 | 배포 날짜 | 추가점 | 다운로드 |
 |:-------:|:-------:|:-------:|:-------:|
-| 0.1   | 16.10.14   | 기본   | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuYk5samxzSUw3YXc), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuYVBnaTdmWFZ5Qzg)   | [링크](https://goodseonbi.github.io/duckfactory/sbj/GJTool-Readme_v0.1) |
-| 0.2 | 16.10.21 | 사진 확대 축소, 포텐 없음 추가, 뒷 배경 추가, 사진 자유롭게 선택 가능, 이미지 자동 크기 보정 | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuczZBa2k1VHNOZjQ), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuUGpSZDB3Y2VhQUk) | 이 페이지 |
-
+| 0.1   | 16.10.14   | 기본   | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuYk5samxzSUw3YXc), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuYVBnaTdmWFZ5Qzg)   |
 
 
 ### 설명서
 
-이 프로그램은 GJ를 편하게 만들기 위해 제작된 프로그램 v0.2 입니다.
-v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용하시기 바랍니다.
+이 프로그램은 GJ를 편하게 만들기 위해 제작된 프로그램입니다.
 
 
->버전 0.2 기준으로 아직 시즌 번호가 검은색으로 나옵니다. 아마 계속 그럴꺼 같습니다...
-
->이 설명서는 v0.1 버전 설명서 기반으로 되있습니다. 비슷한 내용이 많습니다.
+>버전 0.1에서의 기준으로 적혀진 설명서이며 차후 그 내용이 달라질수 있습니다. 
+>버전 0.1 기준으로 시즌 표시 번호가 검은색으로 나옵니다. 참고 부탁드립니다.
 
 <!-- more -->
 
@@ -39,13 +35,8 @@ v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용�
 
 
 <figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho.png" alt=""></a>
-	<figcaption>사이즈를 자신의 입맛대로 설정가능합니다. 입력 안 할시 350으로 자동 설정됩니다.</figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho2.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho2.png" alt=""></a>
-	<figcaption>700을 입력 시 원 품질의 이미지가 생성됩니다. 줄여 사용하실 분은 700을 입력해서 사용해주세요.</figcaption>
+	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/sprsizecho.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/sprsizecho.png" alt=""></a>
+	<figcaption>제작할 사진 크기를 고릅니다</figcaption>
 </figure>
 
 <figure class="half center">
@@ -58,7 +49,7 @@ v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용�
 	<figcaption>파일 브라우저에서 불러올 파일을 고릅니다</figcaption>
 </figure>
 
-**버전 0.2 기준으로 어떤 사이즈의 이미지를 불러와도 700x700 이상으로 자동조정됩니다. 낮은 화질의 이미지의 경우 깨져보일수 있습니다.**
+**버전 0.1 기준으로 700사이즈에서 700x700 이하 사진을 고를 시 짤려나옵니다. 350사이즈도 마찬가지로 350보다 작은 사이즈는 짤려나옵니다.**
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/fileloadSet.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/fileloadSet.png" alt=""></a>
@@ -70,12 +61,7 @@ v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용�
 	<figcaption>`사진수정`을 클릭하여 사진을 수정합니다</figcaption>
 </figure>
 
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2resize.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2resize.png" alt=""></a>
-	<figcaption>키보드 `-` 을 클릭시 축소, `=` 을 클릭시 확대 가 됩니다. </figcaption>
-</figure>
-
-<figure class="half center">
+<figure class="two">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png" alt=""></a>
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki2.png" alt=""></a>
 	<figcaption>`국기선택`을 클릭하여 국기를 고른 후 클릭합니다</figcaption>
@@ -99,16 +85,6 @@ v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용�
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/water.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/water.png" alt=""></a>
 	<figcaption>워터마크도 입력합니다</figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delseason.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delseason.png" alt=""></a>
-	<figcaption>`시즌 글자 끄기` 를 체크시 시즌 글자가 사라집니다. 체크를 해체시 다시 나옵니다.</figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delmedal.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delmedal.png" alt=""></a>
-	<figcaption>`메달, 시즌, 국기 끄기` 를 체크시 메달 부분이 사라집니다. 체크를 해체시 다시 나옵니다.</figcaption>
 </figure>
 
 <figure class="half center">
