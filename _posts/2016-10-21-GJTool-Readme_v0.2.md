@@ -19,25 +19,24 @@ image:
 | 버전 | 배포 날짜 | 추가점 | 다운로드 | 설명 |
 |:-------:|:-------:|:-------:|:-------:|
 | 0.1   | 16.10.14   | 기본   | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuYk5samxzSUw3YXc), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuYVBnaTdmWFZ5Qzg)   | [링크](https://goodseonbi.github.io/duckfactory/sbj/GJTool-Readme_v0.1) |
-| 0.2 | 16.10.21 | 사진 확대 축소, 포텐 없음 추가, 뒷 배경 추가, 사진 자유롭게 선택 가능, 이미지 자동 크기 보정 | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuczZBa2k1VHNOZjQ), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuUGpSZDB3Y2VhQUk) | [링크](https://goodseonbi.github.io/duckfactory/sbj/GJTool-Readme_v0.2) |
-| 0.3 | 16.10.28 | 필터 추가, 글자 수정, 이미지 칼라 추가 | [Win](https://drive.google.com/open?id=0B6pD7VjawyFucjhOME10VDAzRmM), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuUXc4Y0ZBckh5YU0) | 이 페이지 |
+| 0.2 | 16.10.21 | 사진 확대 축소, 포텐 없음 추가, 뒷 배경 추가, 사진 자유롭게 선택 가능, 이미지 자동 크기 보정 | [Win](https://drive.google.com/open?id=0B6pD7VjawyFuczZBa2k1VHNOZjQ), [Mac](https://drive.google.com/open?id=0B6pD7VjawyFuUGpSZDB3Y2VhQUk) | 이 페이지 |
+
 
 
 ### 설명서
 
-이 프로그램은 GJ를 편하게 만들기 위해 제작된 프로그램 v0.3 입니다.
-전 버전이 필요하신분은 위에 있는 링크를 통해 다운받아 사용하시기 바랍니다.
+이 프로그램은 GJ를 편하게 만들기 위해 제작된 프로그램 v0.2 입니다.
+v0.1 이 필요하신분은 위에 있는 링크를 통해 다운받아 사용하시기 바랍니다.
 
 
->버전 0.3 기준으로 아직도 시즌 번호가 검은색으로 나옵니다. 아마 이 프로그램의 자체 워터마크(?)가 될꺼 같습니다.
+>버전 0.2 기준으로 아직 시즌 번호가 검은색으로 나옵니다. 아마 계속 그럴꺼 같습니다...
 
 >이 설명서는 v0.1 버전 설명서 기반으로 되있습니다. 비슷한 내용이 많습니다.
 
 <!-- more -->
 
-### 사용법
+#### 사용법
 
-#### 사진 불러오기
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2sizecho.png" alt=""></a>
@@ -66,10 +65,6 @@ image:
 	<figcaption>불러온 사진이 왼쪽에 표시됩니다</figcaption>
 </figure>
 
-#### 사진 수정 관련
-
-##### 확대 축소
-
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/sprSet.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/sprSet.png" alt=""></a>
 	<figcaption>`사진수정`을 클릭하여 사진을 수정합니다</figcaption>
@@ -79,42 +74,6 @@ image:
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2resize.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2resize.png" alt=""></a>
 	<figcaption>키보드 `-` 을 클릭시 축소, `=` 을 클릭시 확대 가 됩니다. </figcaption>
 </figure>
-
-##### 이미지 칼라 수정
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3main.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3main.png" alt=""></a>
-	<figcaption> 왼쪽 상단에 위치한 `Image Color` 파레트를 클릭해줍니다. </figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3color.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3color.png" alt=""></a>
-	<figcaption> 파레트 부분이 커지며 원하는 색깔 부분에 마우스를 올려놓은 후 클릭을 하면 이미지 색깔이 변경됩니다. 오른쪽에 위치한 바를 통해 수동으로 색깔을 조종한 후 `Aplly` 을 클릭하여 변경도 가능합니다. </figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3colorset.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3colorset.png" alt=""></a>
-	<figcaption> 이미지 색깔이 변경된 모습입니다. </figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3colororiginal.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3colororiginal.png" alt=""></a>
-	<figcaption> 색깔이 맘에 안드는 경우 파레트를 클릭 후 `priginal` 을 클릭하면 원상태로 돌아갑니다. </figcaption>
-</figure>
-
-##### 필터 선택법
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3filter.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3filter.png" alt=""></a>
-	<figcaption> `필터` 를 클릭하면 나오는 창이며 자신이 원하는 필터 효과를 클릭하여 적용합니다. `original` 을 클릭 시 필터가 해체됩니다. </figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3filterset.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.3filterset.png" alt=""></a>
-	<figcaption> 필터가 적용된 모습입니다. </figcaption>
-</figure>
-
-##### 국가, 메달 선택법
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/ki1.png" alt=""></a>
@@ -126,8 +85,6 @@ image:
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/medal.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/medal.png" alt=""></a>
 	<figcaption>`메달선택`을 클릭하여 메달을 고른 후 클릭합니다</figcaption>
 </figure>
-
-##### 글자 넣는법
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/name.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/name.png" alt=""></a>
@@ -143,8 +100,6 @@ image:
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/water.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/water.png" alt=""></a>
 	<figcaption>워터마크도 입력합니다</figcaption>
 </figure>
-
-##### 추가 세팅
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delseason.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/0.2delseason.png" alt=""></a>
@@ -196,12 +151,7 @@ image:
 
 <figure class="half center">
 	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/end.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/end.png" alt=""></a>
-	<figcaption>최종 완성작 v0.1</figcaption>
-</figure>
-
-<figure class="half center">
-	<a href="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/daniel_agger.png"><img src="https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/sbj/gjtool/daniel_agger.png" alt=""></a>
-	<figcaption>최종 완성작 v0.2</figcaption>
+	<figcaption>최종 완성작</figcaption>
 </figure>
 
 
