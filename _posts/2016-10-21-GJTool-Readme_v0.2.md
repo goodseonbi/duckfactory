@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GJTool Readme
+title: GJTool Readme v0.2
 description: lol
 modified: 2016-10-21
 tags: [seonbijam]
