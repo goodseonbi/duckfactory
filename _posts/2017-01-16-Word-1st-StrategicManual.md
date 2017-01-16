@@ -11,7 +11,11 @@ image:
   feature: /feature/GeorgeSantayana.png
 ---
 
-[TOC]
+
+
+- [Paste Your Document In Here](#Overview)
+  * [And a table of contents](#and-a-table-of-contents)
+  * [On the right](#on-the-right)
 
 ## Overview
 
