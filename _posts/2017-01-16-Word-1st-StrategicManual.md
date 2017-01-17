@@ -221,31 +221,44 @@ Window7의 특징, 시작 옵션 메뉴, 단축키, 바로가기 만들기, **�
 1. 시험지를 받자마자 시험지 첫장 가운데에 위치한 **편집용지** 부분의 **용지 여백**, **단** 부분을 확인하고 기억하자. 
    거의 대다수의 문제가 20mm **4번**, 10mm **2번** 일것이다.
    단은 **2단** 이며 단 간격은 **8mm**이 대체로 고정적으로 나오고 구분석이 **안 나오는 경우**도 있다.
+   ​
 
 2. "시험을 시작하세요." 라는 말과 함께 화면에 위치한 인적창이 꺼지면 곧바로 `F7` 을 누른다.
-   ![editpaper](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/editpaper.png)
+   ![editpaper](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/editpaper.png)
+   ​
 
 3. 열린 **편집 용지** 창의 아래쪽에 위치한 **용지 여백**의 위쪽부터 마우스로 **클릭**하여 **20**을 입력한다.
 
    **위쪽 옆 수치**`클릭` -> 20 -> `Tab` -> 20 -> `Tab` -> 20 -> `Tab` -> 20 -> `Tab` -> 10 -> `Tab` -> 10 -> `Enter`
+   ​
 
 4. **메뉴바**에서 **쪽**을 클릭한 후 **구역**칸에 위치한 **단**을 클릭한 후 **단 개수**를 **수정**해주자.
    구분선이 있다면 **구분선 넣기**를 **클릭**한 후 수정해주자.
+   ![dan](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/dan.png)
+   ![danset](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/danset.png)
+   ​
 
 5. **문제의 내용**만 빠르게 입력해줍니다. 글상자, 들여쓰기, 문단 정렬 등의 편집 작업은 **제외**한다. **표 작업**은 같이 해주자.
    표을 만든 후 내용과 캡션만 정확하게 **입력**합니다.
+   ![headtalk](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/headtalk.png)
+   ​
 
 6. 내용을 다 입력했다면 시험지의 **세부 지시사항**을 보며 내용을 수정하자.
    지시사항 **순서대로** 작업을 하면 까먹지 않고 작업이 가능하다.
+   ​
 
 7. **각각 작업을 하는 법은 적당히 알아서 교재를 보며 공부하자.** 
+   ​
 
 8. **쪽 번호**, **머리말**, **꼬리말**은 **쪽(<u>W</u>)** 부분에 모여 있으니 마우스로 아이콘을 **클릭**하여 작업하는 것이 편하다.
+   ​
 
 9. 중요! **차트 작업**은 가장 **마지막**에 하자.
    가장 많이 오류가 나며 꺼지는 부분이 차트 수정 부분이다.
+   ​
 
 10. **남은 시간에는 오타 체크를 하자!**
+   ​
 
 위와 같은 순서로 모든 시험이 반복된다. 기출문제를 3~5번 풀면 이 작업이 뇌리에 박혀 머리보다 손가락이 먼저 움직이는 진풍경이 펼쳐진다.
 
