@@ -1,8 +1,8 @@
 title:            Duck Factory
-description:      Describe your website here.
+description:      나의 덕질을 모아둔 새콤한 블로그
 
 # put your disqus here
-disqus_shortname:
+disqus_shortname: https-goodseonbi-github-io-duckfactory
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
@@ -63,7 +63,8 @@ social:
     url: "https://www.youtube.com/channel/UCHISzhCbCA38PAn0XNxKtvA"
 
 # Background image to be tiled on all pages
-background:
+background: /background/eight_horns.png
+#/background/triangular.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
