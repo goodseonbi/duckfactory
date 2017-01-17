@@ -6,9 +6,9 @@ modified: 2017-01-16
 tags: [certificate]
 categories: [study]
 image:
-  background: /background/triangular.png
-image:
   feature: /feature/GeorgeSantayana.png
+image:
+  background: /background/triangular.png
 ---
 
 ---
