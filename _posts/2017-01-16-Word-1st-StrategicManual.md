@@ -7,8 +7,7 @@ tags: [certificate]
 categories: [study]
 image:
   feature: /feature/GeorgeSantayana.png
-image:
-  background: /background/triangular.png
+background: /background/triangular.png
 ---
 
 ---
