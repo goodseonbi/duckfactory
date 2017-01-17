@@ -240,7 +240,6 @@ Window7의 특징, 시작 옵션 메뉴, 단축키, 바로가기 만들기, **�
 
 5. **문제의 내용**만 빠르게 입력해줍니다. 글상자, 들여쓰기, 문단 정렬 등의 편집 작업은 **제외**한다. **표 작업**은 같이 해주자.
    표을 만든 후 내용과 캡션만 정확하게 **입력**합니다.
-   ![headtalk](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/headtalk.png)
    ​
 
 6. 내용을 다 입력했다면 시험지의 **세부 지시사항**을 보며 내용을 수정하자.
@@ -251,6 +250,7 @@ Window7의 특징, 시작 옵션 메뉴, 단축키, 바로가기 만들기, **�
    ​
 
 8. **쪽 번호**, **머리말**, **꼬리말**은 **쪽(<u>W</u>)** 부분에 모여 있으니 마우스로 아이콘을 **클릭**하여 작업하는 것이 편하다.
+   ![headtalk](https://raw.githubusercontent.com/goodseonbi/duckfactory/gh-pages/images/categories/study/certificate/word/headtalk.png)
    ​
 
 9. 중요! **차트 작업**은 가장 **마지막**에 하자.
