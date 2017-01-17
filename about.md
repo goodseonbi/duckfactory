@@ -34,5 +34,3 @@ You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbo
 ## Getting Started
 
 Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guid](http://aronbordin.com/neo-hpstr-jekyll-theme//theme-setup/) for more information.
