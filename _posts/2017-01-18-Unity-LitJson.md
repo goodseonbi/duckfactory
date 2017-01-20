@@ -9,9 +9,9 @@ categories: [study]
 
 ---
 
-1. 목차
 
-   {:toc}
+
+{:toc}
 
 ---
 
@@ -20,6 +20,8 @@ categories: [study]
 유니티에서 json을 사용할 수 있게 해주는 라이브러리가 많다. 그 많은 라이브러리 중 가장 많이 보이는 라이브러리인 **LitJson**에 대해서 저장용으로 이 글을 작성한다.
 
 더 많은 라이브러리에 대한 자세한 내용은 [링크](https://heartgamer.wordpress.com/2015/01/10/unity%EC%97%90%EC%84%9C-json-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/)를 참조하자.
+
+<!-- more -->
 
 ## LitJson
 
