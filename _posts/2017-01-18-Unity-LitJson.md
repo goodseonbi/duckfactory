@@ -3,7 +3,7 @@ layout: post
 title: 유니티 Json 사용하기. LitJson편
 description: Json
 modified: 2017-01-18
-tags: [programming]
+tags: [programming, Unity3D, LitJson]
 categories: [study]
 ---
 
